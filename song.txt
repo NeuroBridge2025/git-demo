@@ -1,1 +1,2 @@
-My first Git file
+There is a difference between knowing the path
+and walking the path
